@@ -3,7 +3,7 @@ class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
         unordered_map<int,bool> numMap;
-        for( auto &num:nums){
+        for( const auto &num:nums){
             if(numMap.find(num)!=numMap.end()){
                 return true;
             }
