@@ -6,12 +6,10 @@ public:
             }
         else{
             int charcount[26]={0};
-            for(const auto &ch:s){
-                charcount[ch-'a']++;
-            }
-            for(const auto &ch:t){
-                charcount[ch-'a']--;
-            }
+           for(int i=0; i<s.length();i++){
+ charcount[s[i]-'a']++;
+  charcount[t[i]-'a']--;
+}
             for(auto &count : charcount){
                 if(count!=0){
                     return false;
