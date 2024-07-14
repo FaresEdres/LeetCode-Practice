@@ -4,7 +4,7 @@ public:
     bool containsDuplicate(vector<int>& nums) {
         unordered_map<int,bool> numMap;
         for(  auto &num:nums){
-            if(numMap.find(num)!=numMap.end()){
+            if(numMap.count(num)){
                 return true;
             }
             else{numMap[num]=true;}
