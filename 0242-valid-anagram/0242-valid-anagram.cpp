@@ -12,7 +12,7 @@ public:
 }
 
            for(int i=0; i<t.length();i++){
-                if(charMap.count(t[i])){
+                if(charMap.count(t[i])&&charMap[t[i]]>0){
                 charMap[t[i]]--;
                 }
                 else{
