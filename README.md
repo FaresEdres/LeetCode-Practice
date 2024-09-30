@@ -48,12 +48,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0567-permutation-in-string) |
+| [1274-number-of-days-between-two-dates](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1274-number-of-days-between-two-dates) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0231-power-of-two) |
+| [1274-number-of-days-between-two-dates](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1274-number-of-days-between-two-dates) |
 ## Divide and Conquer
 |  |
 | ------- |
