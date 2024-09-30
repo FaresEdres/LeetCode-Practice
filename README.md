@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0792-binary-search) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0567-permutation-in-string) |
+| [1781-check-if-two-string-arrays-are-equivalent](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 ## Math
 |  |
 | ------- |
