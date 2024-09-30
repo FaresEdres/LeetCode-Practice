@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0231-power-of-two) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,4 +145,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0226-invert-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
