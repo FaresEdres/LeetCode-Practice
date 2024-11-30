@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0567-permutation-in-string) |
 | [1274-number-of-days-between-two-dates](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1274-number-of-days-between-two-dates) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
+| [1894-merge-strings-alternately](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0567-permutation-in-string) |
+| [1894-merge-strings-alternately](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
 | ------- |
