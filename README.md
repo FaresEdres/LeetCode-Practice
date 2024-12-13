@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1127-last-stone-weight) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2102-find-the-middle-index-in-array](https://github.com/FaresEdres/LeetCode-Practice/tree/master/2102-find-the-middle-index-in-array) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/FaresEdres/LeetCode-Practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1274-number-of-days-between-two-dates](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1274-number-of-days-between-two-dates) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/FaresEdres/LeetCode-Practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Math
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [2654-count-the-number-of-vowel-strings-in-range](https://github.com/FaresEdres/LeetCode-Practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Quickselect
 |  |
 | ------- |
