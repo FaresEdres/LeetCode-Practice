@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0792-binary-search) |
+| [1127-last-stone-weight](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1127-last-stone-weight) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2102-find-the-middle-index-in-array](https://github.com/FaresEdres/LeetCode-Practice/tree/master/2102-find-the-middle-index-in-array) |
 ## Hash Table
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1127-last-stone-weight](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1127-last-stone-weight) |
 ## Bucket Sort
 |  |
 | ------- |
