@@ -3,8 +3,9 @@ public:
     int vowelStrings(vector<string>& words, int left, int right) {
         int count=0;     
         unsigned int flag=0;
+        unsigned int lastChar;
         while(left<=right){
-            unsigned int lastChar=words[left].size()-1;
+            lastChar=words[left].size()-1;
             switch(words[left][0]){
                 case 'a':
                 case 'i':
