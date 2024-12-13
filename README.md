@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0792-binary-search) |
+| [0941-sort-array-by-parity](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 | [1127-last-stone-weight](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1127-last-stone-weight) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2102-find-the-middle-index-in-array](https://github.com/FaresEdres/LeetCode-Practice/tree/master/2102-find-the-middle-index-in-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0941-sort-array-by-parity](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 ## String
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0567-permutation-in-string) |
+| [0941-sort-array-by-parity](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 | [1894-merge-strings-alternately](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
