@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1894-merge-strings-alternately](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1894-merge-strings-alternately) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/FaresEdres/LeetCode-Practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/FaresEdres/LeetCode-Practice/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 ## Math
 |  |
 | ------- |
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0143-reorder-list) |
+## Enumeration
+|  |
+| ------- |
+| [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/FaresEdres/LeetCode-Practice/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
 <!---LeetCode Topics End-->
