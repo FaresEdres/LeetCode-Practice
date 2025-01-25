@@ -2,16 +2,14 @@ class Solution {
 public:
     int missingNumber(vector<int>& nums) {
         int len=nums.size();
-        unordered_map <int,bool> numMap;
-        int miss=0;
+   
+        int miss=(len*(len+1))/2;
       
-        for(int i=0;i<=len;i++){
-            numMap[i]=true;
-        }
+       cout<<miss;
         for (auto& num:nums){
-            numMap.erase(num);
+            miss-=num;
         }
-        return numMap.begin()->first;
+        return miss;
 
     }
 };
