@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0792-binary-search](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0567-permutation-in-string) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0941-sort-array-by-parity](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 ## String
@@ -64,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0268-missing-number) |
 | [1274-number-of-days-between-two-dates](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1274-number-of-days-between-two-dates) |
 ## Divide and Conquer
 |  |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0792-binary-search) |
 ## Sliding Window
 |  |
@@ -168,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
