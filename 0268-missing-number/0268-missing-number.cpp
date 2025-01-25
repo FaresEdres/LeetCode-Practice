@@ -5,7 +5,7 @@ public:
    
         int miss=(len*(len+1))/2;
       
-       cout<<miss;
+       
         for (auto& num:nums){
             miss-=num;
         }
