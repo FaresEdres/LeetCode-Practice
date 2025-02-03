@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0792-binary-search) |
 | [0941-sort-array-by-parity](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
 | [1127-last-stone-weight](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1127-last-stone-weight) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [2102-find-the-middle-index-in-array](https://github.com/FaresEdres/LeetCode-Practice/tree/master/2102-find-the-middle-index-in-array) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/FaresEdres/LeetCode-Practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0567-permutation-in-string) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0941-sort-array-by-parity](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0941-sort-array-by-parity) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0347-top-k-frequent-elements) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/FaresEdres/LeetCode-Practice/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2654-count-the-number-of-vowel-strings-in-range](https://github.com/FaresEdres/LeetCode-Practice/tree/master/2654-count-the-number-of-vowel-strings-in-range) |
 ## Quickselect
 |  |
