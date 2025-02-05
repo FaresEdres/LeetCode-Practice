@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3361-latest-time-you-can-obtain-after-replacing-characters](https://github.com/FaresEdres/LeetCode-Practice/tree/master/3361-latest-time-you-can-obtain-after-replacing-characters) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/FaresEdres/LeetCode-Practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
